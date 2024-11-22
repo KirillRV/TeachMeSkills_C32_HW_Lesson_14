@@ -1,8 +1,3 @@
-docnum123456789 - Invalid starting sequence or invalid characters
-contractabc1234 - Invalid starting sequence or invalid characters
-docnumABC123456 - Invalid starting sequence or invalid characters
-contractXYZ9876 - Invalid starting sequence or invalid characters
-docnum1a2b3c4d5 - Invalid starting sequence or invalid characters
 docnum12345678901 - Invalid length (must be 15 characters)
 docnum12!456789 - Invalid starting sequence or invalid characters
 docnum123 - Invalid length (must be 15 characters)
