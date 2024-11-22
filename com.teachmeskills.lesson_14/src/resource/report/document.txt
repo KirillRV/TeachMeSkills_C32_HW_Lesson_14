@@ -1,6 +1,0 @@
-docnum12345678901 - Invalid length (must be 15 characters)
-docnum12!456789 - Invalid starting sequence or invalid characters
-docnum123 - Invalid length (must be 15 characters)
-contractabc123 - Invalid length (must be 15 characters)
-contruct12345 - Invalid length (must be 15 characters)
-docnem2345678 - Invalid length (must be 15 characters)
